@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf3cd266-5198-467f-8a58-531998e5c84a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataStructure_Java/DataStructure_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_13_Generic/Day_13_Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit_Day_20/JUnit_Day_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit_Day_20/src/com/bridgeLabz/bridgeLabz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_OPPs/Java_Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList_DSA_Java/LinkedList_DSA_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_Day10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_Day8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_Day9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegEx/RegEx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../applyingDesignPrinciples_Day29/applyingDesignPrinciples_Day29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/out/production/hello/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java Annotation/out/production/java Annotation/Practics/java Annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java Annotation/src/java Annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_file_IO/java_file_IO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaclass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/src/com/bridgeLabz/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workShop_1/workShop_1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DOLRG4kOEoyc4QDguBoSJ2o0qX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgeLabz.Start" />
+      <module name="Students_Management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgeLabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3cd266-5198-467f-8a58-531998e5c84a" name="Changes" comment="" />
+      <created>1660565179282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660565179282</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
