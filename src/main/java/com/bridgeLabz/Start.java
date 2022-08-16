@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Start {
+    
     public static void main(String[] args) throws IOException {
         System.out.println("Welcome to student Management App");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -63,7 +64,6 @@ public class Start {
                 break;
             }
             else {
-
             }
         }
         System.out.println("Thank you for using my App....");
